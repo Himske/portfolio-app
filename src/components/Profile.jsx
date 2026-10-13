@@ -9,7 +9,7 @@ export default function Profile() {
                 </p>
                 <div className="profile-title-row">
                     <h1>Fredrik Nilsson</h1>
-                    <img className="profile-img" src="src/assets/Fredrik.jpg" alt="Fredrik Nilsson" />
+                    <img className="profile-img" src="./Fredrik.jpg" alt="Fredrik Nilsson" />
                 </div>
                 <h2>Data Engineer / Backend Developer</h2>
 
