@@ -1,0 +1,72 @@
+{
+    "projects": [
+        {
+            "id": 1,
+            "title": "Flame And Bun",
+            "technologies": [
+                "HTML",
+                "TailwindCSS",
+                "JavaScript"
+            ],
+            "description": "A simple restaurant website built with html, tailwindcss and javascript.",
+            "images": [
+                "FlameAndBun1.jpeg",
+                "FlameAndBun2.jpeg",
+                "FlameAndBun3.jpeg",
+                "FlameAndBun4.jpeg"
+            ],
+            "github": "https://github.com/Himske/Flame_And_Bun",
+            "live": "https://himske.github.io/Flame_And_Bun/"
+        },
+        {
+            "id": 2,
+            "title": "My Collections",
+            "technologies": [
+                "Python",
+                "FastAPI",
+                "SQLite"
+            ],
+            "description": "So far only a backend API for keeping track of my books. I plan to add a frontend later on. I also collect comics, so I might add a section for them.",
+            "images": [
+                "MyCollections1.jpg"
+            ],
+            "github": "https://github.com/Himske/my_collections",
+            "live": ""
+        },
+        {
+            "id": 3,
+            "title": "SQL Queries",
+            "technologies": [
+                "SQL",
+                "PL/SQL"
+            ],
+            "description": "A collection of SQL and PL/SQL scripts that I have written while working on test data management/validation and automation.",
+            "images": [
+                "SQLQueries1.jpg",
+                "SQLQueries2.jpg",
+                "SQLQueries3.jpg"
+            ],
+            "github": "https://github.com/Himske/SQL-queries",
+            "live": ""
+        },
+        {
+            "id": 4,
+            "title": "Comic Book Generator",
+            "technologies": [
+                "Python",
+                "FastAPI",
+                "HTML",
+                "CSS",
+                "Ollama"
+            ],
+            "description": "Since I like comic books, but I can't draw, I wanted to see if I could use some AI tool to generate a comic book. So far I have just been experimenting with some simple prompt generation.",
+            "images": [
+                "ComicBookGenerator1.jpg",
+                "ComicBookGenerator2.jpg",
+                "ComicBookGenerator3.jpg"
+            ],
+            "github": "https://github.com/Himske/ComicBookGenerator",
+            "live": ""
+        }
+    ]
+}

@@ -1,0 +1,10 @@
+.site-header {
+    font-family: Inter, ui-sans-serif, system-ui, -apple-system,
+        BlinkMacSystemFont, "Segoe UI", sans-serif;
+    background: linear-gradient(135deg, rgba(13, 78, 99, 0.96), rgba(23, 107, 135, 0.9)), url(https://images.unsplash.com/photo-1558494949-ef010cbdcc31?auto=format&fit=crop&w=1800&q=80) center / cover;
+    color: white;
+    min-height: 500px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}

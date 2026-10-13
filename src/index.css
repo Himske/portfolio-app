@@ -1,0 +1,21 @@
+:root {
+  --bg: #f5f7fa;
+  --surface: #ffffff;
+  --text: #17202a;
+  --muted: #64748b;
+  --accent: #176b87;
+  --accent-dark: #0d4e63;
+  --border: #dbe3ea;
+  --tag-bg: #e8f3f7;
+  --max-width: 1180px;
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  scroll-behavior: smooth;
+}
