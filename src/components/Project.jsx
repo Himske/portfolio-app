@@ -22,7 +22,7 @@ export default function Project({ project }) {
                         className="project-carousel"
                         showThumbs={false}
                         infiniteLoop
-                        autoPlay
+                        autoPlay={false}
                         interval={3000}
                         stopOnHover
                         swipeable
